@@ -1,0 +1,115 @@
+#ifndef _PRUNING_INFO_
+#define _PRUNING_INFO_
+
+//weight no zeros for each in_size
+#define w_n0_0 22
+#define w_n0_1 11
+#define w_n0_2 66
+#define w_n0_3 16
+#define w_n0_4 99
+#define w_n0_5 16
+#define w_n0_6 99
+#define w_n0_7 22
+#define w_n0_8 132
+#define w_n0_9 22
+#define w_n0_10 132
+#define w_n0_11 22
+#define w_n0_12 132
+#define w_n0_13 44
+#define w_n0_14 264
+#define w_n0_15 44
+#define w_n0_16 264
+#define w_n0_17 44
+#define w_n0_18 264
+#define w_n0_19 44
+#define w_n0_20 264
+#define w_n0_21 66
+#define w_n0_22 396
+#define w_n0_23 66
+#define w_n0_24 396
+#define w_n0_25 66
+#define w_n0_26 396
+#define w_n0_27 110
+#define w_n0_28 660
+#define w_n0_29 110
+#define w_n0_30 660
+#define w_n0_31 110
+#define w_n0_32 660
+#define w_n0_33 220
+#define w_n0_34 360
+
+//weights zeros for each PE
+#define zeros_all_PE_0 10
+#define zeros_all_PE_1 5
+#define zeros_all_PE_2 10
+#define zeros_all_PE_3 8
+#define zeros_all_PE_4 10
+#define zeros_all_PE_5 8
+#define zeros_all_PE_6 10
+#define zeros_all_PE_7 10
+#define zeros_all_PE_8 10
+#define zeros_all_PE_9 10
+#define zeros_all_PE_10 10
+#define zeros_all_PE_11 10
+#define zeros_all_PE_12 10
+#define zeros_all_PE_13 10
+#define zeros_all_PE_14 10
+#define zeros_all_PE_15 10
+#define zeros_all_PE_16 10
+#define zeros_all_PE_17 10
+#define zeros_all_PE_18 10
+#define zeros_all_PE_19 10
+#define zeros_all_PE_20 10
+#define zeros_all_PE_21 10
+#define zeros_all_PE_22 10
+#define zeros_all_PE_23 10
+#define zeros_all_PE_24 10
+#define zeros_all_PE_25 10
+#define zeros_all_PE_26 10
+#define zeros_all_PE_27 10
+#define zeros_all_PE_28 10
+#define zeros_all_PE_29 10
+#define zeros_all_PE_30 10
+#define zeros_all_PE_31 10
+#define zeros_all_PE_32 10
+#define zeros_all_PE_33 10
+#define zeros_all_PE_34 23
+
+//weights zeros for final PE
+#define zeros_final_PE_0 10
+#define zeros_final_PE_1 5
+#define zeros_final_PE_2 10
+#define zeros_final_PE_3 8
+#define zeros_final_PE_4 5
+#define zeros_final_PE_5 8
+#define zeros_final_PE_6 5
+#define zeros_final_PE_7 10
+#define zeros_final_PE_8 10
+#define zeros_final_PE_9 10
+#define zeros_final_PE_10 10
+#define zeros_final_PE_11 10
+#define zeros_final_PE_12 10
+#define zeros_final_PE_13 10
+#define zeros_final_PE_14 10
+#define zeros_final_PE_15 10
+#define zeros_final_PE_16 10
+#define zeros_final_PE_17 10
+#define zeros_final_PE_18 10
+#define zeros_final_PE_19 10
+#define zeros_final_PE_20 10
+#define zeros_final_PE_21 10
+#define zeros_final_PE_22 10
+#define zeros_final_PE_23 10
+#define zeros_final_PE_24 10
+#define zeros_final_PE_25 10
+#define zeros_final_PE_26 10
+#define zeros_final_PE_27 10
+#define zeros_final_PE_28 10
+#define zeros_final_PE_29 10
+#define zeros_final_PE_30 10
+#define zeros_final_PE_31 10
+#define zeros_final_PE_32 10
+#define zeros_final_PE_33 10
+#define zeros_final_PE_34 23
+
+#endif
